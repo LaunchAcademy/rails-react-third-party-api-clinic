@@ -1,0 +1,9 @@
+- Find your API
+- See that it has acceptable documentation
+- Apply for your api key (if applicable)
+- Store your api key in your env file
+- Test api requests in a url or using an app like Postman
+- note the compound data structures
+- be able to output it to the terminal
+- consider either returning it the front end or persisting it to your database
+- return it to your front end for display
